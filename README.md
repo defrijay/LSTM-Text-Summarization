@@ -55,7 +55,7 @@ Contoh data:
 }
 ```
 
-### Struktur Data
+### Instalasi
 
 ```python
 pip install numpy pandas matplotlib seaborn nltk tensorflow googletrans wordcloud scikit-learn
